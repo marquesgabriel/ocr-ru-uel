@@ -1,0 +1,17 @@
+{
+  "name": "ocr-menu-ru-uel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Teste foi um SUCESSO!\""
+  },
+  "author": "marquesgabriel",
+  "license": "GPP",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "gm": "^1.23.1",
+    "node-tesseract": "^0.2.7",
+    "request": "^2.83.0"
+  }
+}
