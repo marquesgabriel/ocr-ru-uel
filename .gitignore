@@ -2,3 +2,5 @@ menu*.json
 menu*.jpg
 menu*.png
 node_modules/
+output-*
+item-*
