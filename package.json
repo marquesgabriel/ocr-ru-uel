@@ -2,7 +2,7 @@
   "name": "ocr-menu-ru-uel",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "get-menu-img.js",
   "scripts": {
     "test": "echo \"Teste foi um SUCESSO!\""
   },

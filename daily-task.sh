@@ -1,1 +1,3 @@
-#wget -O menu.png 
+node get-menu-img.js
+./tesseract-menu.sh
+

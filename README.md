@@ -13,7 +13,7 @@ Implementação que pega diariamente a imagem do cardápio semanal postada pelo 
  - ~~TODO listar as imagens do endereço http://www.uel.br/ru/pages/cardapio.php~~
  - ~~TODO procurar por uma imagem que retorne da regex /(CARDAPIO).*\.jpg/i~~
  - ~~TODO salvar a img~~
- - TODO cortar as imagens com imagemagick
- - TODO OCR iamgens > texto
+ - ~~TODO cortar as imagens com imagemagick~~
+ - ~~TODO OCR imagens > texto~~
  - TODO texto > corrigir erros OCR > json
  - servir json em endpoint
