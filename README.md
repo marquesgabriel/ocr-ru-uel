@@ -15,5 +15,5 @@ Implementação que pega diariamente a imagem do cardápio semanal postada pelo 
  - ~~TODO salvar a img~~
  - ~~TODO cortar as imagens com imagemagick~~
  - ~~TODO OCR imagens > texto~~
- - TODO texto > corrigir erros OCR > json
+ - ~~TODO texto > corrigir erros OCR > json~~
  - servir json em endpoint
